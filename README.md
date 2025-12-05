@@ -36,8 +36,8 @@ A modern PyQt5-based VR launcher for medical simulation training. This applicati
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/surgical-simulation-suite.git
-   cd surgical-simulation-suite
+   git clone https://github.com/mennah29/task4_VR.git
+   cd task4_VR
    ```
 
 2. **Install dependencies**
@@ -90,7 +90,7 @@ Each simulation card can have a custom color scheme. Modify the `color` field in
 ## 🏗️ Project Structure
 
 ```
-surgical-simulation-suite/
+task4_VR/
 │
 ├── gui_vr.py              # Main application file
 ├── requirements.txt       # Python dependencies
@@ -134,7 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- mennah29 - Initial work
 
 ## 🙏 Acknowledgments
 
@@ -144,7 +144,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or support, please open an issue on GitHub.
+For questions or support, please open an issue on GitHub or contact engmennah2024@gmail.com
 
 ---
 
